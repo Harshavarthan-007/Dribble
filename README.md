@@ -118,7 +118,7 @@ Publish the website in the LocalHost.
 
     <!-- Footer Section -->
     <footer class="bg-dark text-white py-4 text-center">
-        <p class="mb-0">&copy;Developed by GOKUL S</p>
+        <p class="mb-0">&copy;Developed by HARSHAVARTHAN K P</p>
     </footer>
 
     <!-- Bootstrap JS and dependencies -->
